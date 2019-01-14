@@ -1,3 +1,10 @@
+# Jean Pierre's first CS193 Lab
+My favorite things about CS 193 are:
+- I get speedy attention whenever I feel lost
+- TA's are friendly <3
+- Will help towards my battle w/ CS 180 and potentially save my GPA
+- Finally know what GitHub is all about
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
